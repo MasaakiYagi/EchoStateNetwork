@@ -1,0 +1,2 @@
+# EchoStateNetwork
+ ESNの練習
